@@ -1,12 +1,13 @@
 # Constantino
-I'm Muhammed Constantino, a Senior at [Make School](https://github.com/MakeSchool) pursuing a B.S. in Computer Science. Since there are usually 50 Muhammed's in any given room, I go by my last name! On track for graduation in Summer 2021, I am currently looking for roles as either a Product Manager or Software Engineer in San Francisco. During the Summer of 2020 I interned at [Western Digital](https://www.wdc.com) as a Product Line Management Intern, and in high school I interned at a startup call [Courtbuddy](https://www.courtbuddy.com). I've lived in the Bay Area since I was 9, originally I’m from Toronto 🇨🇦️. Thanks for visiting my GitHub!
+I'm Muhammed Constantino, since there are usually 50 Muhammed's in any given room, I go by my last name! I'm a Senior pursuing a B.S. in Computer Science, on track for graduation in August 2021, I am currently looking for fulltime roles as either a Product Manager or Front-End Software Engineer in San Francisco. This summer I am interning at [Contentstack](https://www.contentstack.com), a startup revolutionizing CMS through its headless model. During the Summer of 2020 I interned at [Western Digital](https://www.wdc.com) as a Product Line Management Intern working on their consumer portable SSD line. A more detailed work history can be found [here](https://www.linkedin.com/in/msconstantino). Originally I’m from Toronto, I've lived in the Bay Area since I was 9. Thanks for visiting my GitHub!
 
 ## My Skills
-🗣️ Fluency in VanillaJS, ReactJS, DJango and Flask<br>
-🐍️ Mathematical modeling in Python such as the one used for [Lichtman2020](https://lichtman2020.com) election model<br>
+🗣️ Fluency in JavaScript, Python, PHP, HTML/CSS & SCSS<br>
+💡 Working experience with ReactJS, NextJS, Django, Flask, Wordpress<br>
+👷 Have built and shipped projects using NPM, Node.js, Jest, D3.js, Chart.js, MongoDB, Vercel, Git & MySQL<br>
+🐍️ Mathematical modeling in Python such as the one used for [erici.us](https://erici.us) election model<br>
 📦️ PM experience from mockup to shipped (both software and physical products)<br>
 🎨️ Mastery in the full AdobeCC Suite<br>
-📱️ Social media management / content creation<br>
 🚀 I constantly look at the bigger picture, and how my team as a whole can reach our goals.
 
 ## My Passions
@@ -17,7 +18,7 @@ I'm Muhammed Constantino, a Senior at [Make School](https://github.com/MakeSchoo
 💪️ Fitness. A healthy body is a healthy mind
 
 ## What I'm Looking For
-As I mentioned above, currently I am looking for a full time position as a Product Manager or Front End Web Engineer. As I will be moving there in the coming months, the position would have to be located in San Francisco. I value a fast-paced work environment, with opportunities to interact with many different teams while brainstorming creative solutions to shared problems. I've worked in environments with isolated teams and it ain't fun :/. Besides that, a resemblance of work-life balance is very important to me, as we work to live and not vice versa.
+As I mentioned above, currently I am looking for a fulltime position as either a Product Manager or Front-End Software Engineer. I value a fast-paced work environment, with opportunities to interact with many different teams while brainstorming creative solutions to shared problems. Besides that, a resemblance of work-life balance is very important to me!
 
 ## Get in touch
 - Email: muheec@gmail.com
