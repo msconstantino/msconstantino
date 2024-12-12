@@ -1,5 +1,5 @@
 # Muhammed Constantino
-My name is Muhammed Constantino, I am a Full Stack Devloper with a passion for customer-facing engineering. A detailed work history can be found [here](https://www.linkedin.com/in/msconstantino). Thanks for visiting my GitHub!
+My name is Muhammed Constantino, I am a Software Engineer with a passion for customer-facing engineering. A detailed work history can be found [here](https://www.linkedin.com/in/msconstantino). Thanks for visiting my GitHub!
 
 ## My Skills
 🗣️ Languages: JavaScript, Typescript, Python, PHP, HTML/CSS & SCSS<br>
